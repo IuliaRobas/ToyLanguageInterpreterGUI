@@ -17,9 +17,9 @@ There are also **expressions**, such as:
 * variable names.
 
 The interpreter uses three main structures:
-**Execution Stack**: a stack of statements to execute the currrent program
-**Table of Symbols**: a table which keeps the variables values
-**Output**: that keeps all the mesages printed by the toy program
+**Execution Stack**: a stack of statements to execute the currrent program__
+**Table of Symbols**: a table which keeps the variables values__
+**Output**: that keeps all the mesages printed by the toy program__
 
 The program is implemented using the **model-view-controller architectural pattern** and **the repository is saved into a text file** and it also supports **concurrent programming**.
 **GUI** was implemented in **JavaFX**.
