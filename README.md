@@ -17,13 +17,13 @@ There are also **expressions**, such as:
 * variable names.
 
 The interpreter uses three main structures:
-**Execution Stack**: a stack of statements to execute the currrent program__
-**Table of Symbols**: a table which keeps the variables values__
-**Output**: that keeps all the mesages printed by the toy program__
+**Execution Stack**: a stack of statements to execute the currrent program</br>
+**Table of Symbols**: a table which keeps the variables values</br>
+**Output**: that keeps all the mesages printed by the toy program</br>
 
-The program is implemented using the **model-view-controller architectural pattern** and **the repository is saved into a text file** and it also supports **concurrent programming**.
-**GUI** was implemented in **JavaFX**.
-Toy language programs must be hard coded in the repository and the user can choose the evaluation of one of these.
+The program is implemented using the **model-view-controller architectural pattern** and **the repository is saved into a text file** and it also supports **concurrent programming**.</br>
+**GUI** was implemented in **JavaFX**.</br>
+Toy language programs must be hard coded in the repository and the user can choose the evaluation of one of these.</br>
 
 
 
