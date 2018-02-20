@@ -16,7 +16,7 @@ There are also **expressions**, such as:
 * constant values
 * variable names.
 
-The interpreter uses three main structures:
+The interpreter uses three main structures:</br>
 **Execution Stack**: a stack of statements to execute the currrent program</br>
 **Table of Symbols**: a table which keeps the variables values</br>
 **Output**: that keeps all the mesages printed by the toy program</br>
